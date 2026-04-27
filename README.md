@@ -1,2 +1,0 @@
-# IntroToProgramming
-# Hello World!
